@@ -1,0 +1,27 @@
+.container{
+	margin:20px;
+	padding:0px;
+	border:25px solid green;
+	height:400px;
+	width:40%
+	}
+	li{
+	padding:8px;
+	list-style:none;
+	}
+	span{
+		color:navy;
+		margin:0px 10px 0px 0px;
+	}
+	.conversation{
+		background-color:#CCCCCC;
+		}
+		h1{
+		text-align:center;
+		background-color:orange;
+		}
+		.btn{
+		text-align:center;
+		}
+	
+	
