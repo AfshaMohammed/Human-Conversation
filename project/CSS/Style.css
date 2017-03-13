@@ -6,6 +6,7 @@ body{
 	background-color:#CCCCCC;
 	border:25px solid green;
 	width:50%
+	padding:10px;
 	}
 span{
 	padding:0px 8px 0px 0px;
@@ -13,3 +14,9 @@ span{
 li{
 	list-style:none;
 	}
+h1{
+	text-align:center;
+}
+header{
+	background-color:orange;
+}
