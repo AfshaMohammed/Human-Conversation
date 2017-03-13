@@ -16,11 +16,11 @@
 			
 				<ul>
 					<li class="HumanTalk"><span>10:00am</span>Afsha: Hey Good Morning!</li>
-					<li class="HumanTalk"><span>10:10am</span>Raghava: Very Good Morning!</li>
+					<li class="HumanTalk"><span>10:10am</span>Ruksar: Very Good Morning!</li>
 					<li class="HumanTalk"><span>10:20am</span>Afsha: What are you doing now?</li>
-					<li class="HumanTalk"><span>10:30am</span>Raghava: just now I wake up and how about you?</li>
+					<li class="HumanTalk"><span>10:30am</span>Ruksar: just now I wake up and how about you?</li>
 					<li class="HumanTalk"><span>10:40am</span>Afsha: Just now finished my lunch!</li>
-					<li class="HumanTalk"><span>10:50am</span>Afsha: Hey Good Morning!</li>
+					<li class="HumanTalk"><span>10:50am</span>Ruksar: That's great!</li>
 				</ul>
 			
 			<div class="StartConversation">
